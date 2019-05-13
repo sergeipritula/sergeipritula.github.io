@@ -7,8 +7,5 @@
       "paths”: ["*"]
     }
     ]
-  },
-  “webcredentials”: {
-    “apps”: [ "V626A7P3HC.com.storytellermaps.benchmark" ]
   }
 }
